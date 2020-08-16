@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pro-sultanbromptonstore/precache-manifest.36de643d3637025bc91c269eb920ea49.js"
+  "/pro-sultanbromptonstore/precache-manifest.2b7786c01aec24a2ae270f3fa6d80575.js"
 );
 
 self.addEventListener('message', (event) => {
