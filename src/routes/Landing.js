@@ -178,7 +178,7 @@ class App extends React.Component {
                                                 <>
 
                                                     <div href="/#" className="card card-product-grid">
-                                                        <a href="/productdetails" className="img-wrap">
+                                                        <a href="/#" className="img-wrap">
                                                             <img src={"images/items/"+itemlist['foto']+".jpg"} alt="item"/>
                                                         </a>
                                                             <figcaption className="info-wrap">
