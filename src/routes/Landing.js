@@ -9,127 +9,127 @@ class App extends React.Component {
     }
 
     const itemsdata = [
-      {
-        "brand": "Brompton",
-        "edition": "Original",
-        "model": "H6R",
-        "color": "Black",
-        "year": 2020,
-        "condition": "New",
-        "foto": "ori-black-folded",
-        "price": 65000000
-      },
-      {
-        "brand": "Brompton",
-        "edition": "Original",
-        "model": "H3R",
-        "color": "Red",
-        "year": 2020,
-        "condition": "New",
-        "foto": "ori-red-folded",
-        "price": 58000000
-      },
-      {
-        "brand": "Brompton",
-        "edition": "Original",
-        "model": "H6L",
-        "color": "Blue",
-        "year": 2020,
-        "condition": "New",
-        "foto": "ori-blue-folded",
-        "price": 62000000
-      },
-      {
-        "brand": "Brompton",
-        "edition": "Original",
-        "model": "H6L",
-        "color": "Green",
-        "year": 2020,
-        "condition": "New",
-        "foto": "ori-green-folded",
-        "price": 62000000
-      },
-      {
-        "brand": "Brompton",
-        "edition": "Original",
-        "model": "S6L",
-        "color": "Black",
-        "year": 2020,
-        "condition": "New",
-        "foto": "ori-black-folded",
-        "price": 60000000
-      },
-      {
-        "brand": "Brompton",
-        "edition": "Original",
-        "model": "H3R",
-        "color": "Black",
-        "year": 2020,
-        "condition": "New",
-        "foto": "ori-black-folded",
-        "price": 58000000
-      },
-      {
-        "brand": "Brompton",
-        "edition": "Black Edition",
-        "model": "H6L",
-        "color": "Blue",
-        "year": 2020,
-        "condition": "New",
-        "foto": "blackedi-blue-folded",
-        "price": 67000000
-      },
-      {
-        "brand": "Brompton",
-        "edition": "Black Edition",
-        "model": "H6L",
-        "color": "Green",
-        "year": 2020,
-        "condition": "New",
-        "foto": "blackedi-green-folded",
-        "price": 67000000
-      },
-      {
-        "brand": "Brompton",
-        "edition": "Electric",
-        "model": "H6L",
-        "color": "Glossy White",
-        "year": 2020,
-        "condition": "New",
-        "foto": "electric-white-folded",
-        "price": 120000000
-      },
-      {
-        "brand": "Brompton",
-        "edition": "Electric",
-        "model": "H2L",
-        "color": "Black",
-        "year": 2020,
-        "condition": "New",
-        "foto": "electric-black-folded",
-        "price": 110000000
-      },
-      {
-        "brand": "BMW",
-        "edition": "Original",
-        "model": "Folding",
-        "color": "Black & Blue",
-        "year": 2020,
-        "condition": "New",
-        "foto": "bmw-folded",
-        "price": 40000000
-      },
-      {
-        "brand": "BMW",
-        "edition": "Original",
-        "model": "Racing",
-        "color": "Gray",
-        "year": 2020,
-        "condition": "New",
-        "foto": "bmw-race",
-        "price": 190000000
-      }
-    ]
+  {
+    "brand": "Brompton",
+    "edition": "Original",
+    "model": "H6R",
+    "color": "Black",
+    "year": 2020,
+    "condition": "New",
+    "foto": "ori-black-folded",
+    "price": 58000000
+  },
+  {
+    "brand": "Brompton",
+    "edition": "Original",
+    "model": "H3R",
+    "color": "Red",
+    "year": 2020,
+    "condition": "New",
+    "foto": "ori-red-folded",
+    "price": 54000000
+  },
+  {
+    "brand": "Brompton",
+    "edition": "Original",
+    "model": "H6L",
+    "color": "Blue",
+    "year": 2020,
+    "condition": "New",
+    "foto": "ori-blue-folded",
+    "price": 58000000
+  },
+  {
+    "brand": "Brompton",
+    "edition": "Original",
+    "model": "H6L",
+    "color": "Green",
+    "year": 2020,
+    "condition": "New",
+    "foto": "ori-green-folded",
+    "price": 58000000
+  },
+  {
+    "brand": "Brompton",
+    "edition": "Black Edition",
+    "model": "H6L",
+    "color": "Blue",
+    "year": 2020,
+    "condition": "New",
+    "foto": "blackedi-blue-folded",
+    "price": 63000000
+  },
+  {
+    "brand": "Brompton",
+    "edition": "Black Edition",
+    "model": "H6L",
+    "color": "Green",
+    "year": 2020,
+    "condition": "New",
+    "foto": "blackedi-green-folded",
+    "price": 63000000
+  },
+  {
+    "brand": "Brompton",
+    "edition": "Original",
+    "model": "S6L",
+    "color": "Black",
+    "year": 2020,
+    "condition": "New",
+    "foto": "ori-black-folded",
+    "price": 56000000
+  },
+  {
+    "brand": "Brompton",
+    "edition": "Original",
+    "model": "H3R",
+    "color": "Black",
+    "year": 2020,
+    "condition": "New",
+    "foto": "ori-black-folded",
+    "price": 54000000
+  },
+  {
+    "brand": "Brompton",
+    "edition": "Electric",
+    "model": "H6L",
+    "color": "Glossy White",
+    "year": 2020,
+    "condition": "New",
+    "foto": "electric-white-folded",
+    "price": 116000000
+  },
+  {
+    "brand": "Brompton",
+    "edition": "Electric",
+    "model": "H2L",
+    "color": "Black",
+    "year": 2020,
+    "condition": "New",
+    "foto": "electric-black-folded",
+    "price": 116000000
+  },
+  {
+    "brand": "BMW",
+    "edition": "Original",
+    "model": "Folding",
+    "color": "Black & Blue",
+    "year": 2020,
+    "condition": "New",
+    "foto": "bmw-folded",
+    "price": 40000000
+  },
+  {
+    "brand": "BMW",
+    "edition": "Original",
+    "model": "Racing",
+    "color": "Gray",
+    "year": 2020,
+    "condition": "New",
+    "foto": "bmw-race",
+    "price": 183000000
+  }
+]
 
     var formatter = new Intl.NumberFormat('id-ID', {
       maximumSignificantDigits: 3,
