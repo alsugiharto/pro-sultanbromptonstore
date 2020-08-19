@@ -17,7 +17,7 @@ class App extends React.Component {
     "year": 2020,
     "condition": "New",
     "foto": "ori-HR-black-folded",
-    "Price": 58000000
+    "price": 58000000
   },
   {
     "brand": "Brompton",
@@ -26,8 +26,8 @@ class App extends React.Component {
     "color": "Red",
     "year": 2020,
     "condition": "New",
-    "foto": "ori-HRred-folded",
-    "Price": 54000000
+    "foto": "ori-HR-red-folded",
+    "price": 54000000
   },
   {
     "brand": "Brompton",
@@ -37,7 +37,7 @@ class App extends React.Component {
     "year": 2020,
     "condition": "New",
     "foto": "ori-HL-blue-folded",
-    "Price": 58000000
+    "price": 58000000
   },
   {
     "brand": "Brompton",
@@ -47,7 +47,7 @@ class App extends React.Component {
     "year": 2020,
     "condition": "New",
     "foto": "ori-HL-green-folded",
-    "Price": 58000000
+    "price": 58000000
   },
   {
     "brand": "Brompton",
@@ -57,7 +57,7 @@ class App extends React.Component {
     "year": 2020,
     "condition": "New",
     "foto": "blackedi-HL-blue-folded",
-    "Price": 63000000
+    "price": 63000000
   },
   {
     "brand": "Brompton",
@@ -67,7 +67,7 @@ class App extends React.Component {
     "year": 2020,
     "condition": "New",
     "foto": "blackedi-HL-green-folded",
-    "Price": 63000000
+    "price": 63000000
   },
   {
     "brand": "Brompton",
@@ -77,7 +77,7 @@ class App extends React.Component {
     "year": 2020,
     "condition": "New",
     "foto": "ori-SL-black-folded",
-    "Price": 56000000
+    "price": 56000000
   },
   {
     "brand": "Brompton",
@@ -87,7 +87,7 @@ class App extends React.Component {
     "year": 2020,
     "condition": "New",
     "foto": "ori-HR-black-folded",
-    "Price": 54000000
+    "price": 54000000
   },
   {
     "brand": "Brompton",
@@ -97,7 +97,7 @@ class App extends React.Component {
     "year": 2020,
     "condition": "New",
     "foto": "electric-HL-white-folded",
-    "Price": 116000000
+    "price": 116000000
   },
   {
     "brand": "Brompton",
@@ -107,7 +107,7 @@ class App extends React.Component {
     "year": 2020,
     "condition": "New",
     "foto": "electric-HL-black-folded",
-    "Price": 116000000
+    "price": 116000000
   },
   {
     "brand": "BMW",
@@ -117,7 +117,7 @@ class App extends React.Component {
     "year": 2020,
     "condition": "New",
     "foto": "bmw-folded",
-    "Price": 40000000
+    "price": 40000000
   },
   {
     "brand": "BMW",
@@ -127,7 +127,7 @@ class App extends React.Component {
     "year": 2020,
     "condition": "New",
     "foto": "bmw-race",
-    "Price": 183000000
+    "price": 183000000
   }
 ]
 
