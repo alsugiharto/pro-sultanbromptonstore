@@ -16,8 +16,8 @@ class App extends React.Component {
     "color": "Black",
     "year": 2020,
     "condition": "New",
-    "foto": "ori-black-folded",
-    "price": 58000000
+    "foto": "ori-HR-black-folded",
+    "Price": 58000000
   },
   {
     "brand": "Brompton",
@@ -26,8 +26,8 @@ class App extends React.Component {
     "color": "Red",
     "year": 2020,
     "condition": "New",
-    "foto": "ori-red-folded",
-    "price": 54000000
+    "foto": "ori-HRred-folded",
+    "Price": 54000000
   },
   {
     "brand": "Brompton",
@@ -36,8 +36,8 @@ class App extends React.Component {
     "color": "Blue",
     "year": 2020,
     "condition": "New",
-    "foto": "ori-blue-folded",
-    "price": 58000000
+    "foto": "ori-HL-blue-folded",
+    "Price": 58000000
   },
   {
     "brand": "Brompton",
@@ -46,8 +46,8 @@ class App extends React.Component {
     "color": "Green",
     "year": 2020,
     "condition": "New",
-    "foto": "ori-green-folded",
-    "price": 58000000
+    "foto": "ori-HL-green-folded",
+    "Price": 58000000
   },
   {
     "brand": "Brompton",
@@ -56,8 +56,8 @@ class App extends React.Component {
     "color": "Blue",
     "year": 2020,
     "condition": "New",
-    "foto": "blackedi-blue-folded",
-    "price": 63000000
+    "foto": "blackedi-HL-blue-folded",
+    "Price": 63000000
   },
   {
     "brand": "Brompton",
@@ -66,8 +66,8 @@ class App extends React.Component {
     "color": "Green",
     "year": 2020,
     "condition": "New",
-    "foto": "blackedi-green-folded",
-    "price": 63000000
+    "foto": "blackedi-HL-green-folded",
+    "Price": 63000000
   },
   {
     "brand": "Brompton",
@@ -76,8 +76,8 @@ class App extends React.Component {
     "color": "Black",
     "year": 2020,
     "condition": "New",
-    "foto": "ori-black-folded",
-    "price": 56000000
+    "foto": "ori-SL-black-folded",
+    "Price": 56000000
   },
   {
     "brand": "Brompton",
@@ -86,8 +86,8 @@ class App extends React.Component {
     "color": "Black",
     "year": 2020,
     "condition": "New",
-    "foto": "ori-black-folded",
-    "price": 54000000
+    "foto": "ori-HR-black-folded",
+    "Price": 54000000
   },
   {
     "brand": "Brompton",
@@ -96,8 +96,8 @@ class App extends React.Component {
     "color": "Glossy White",
     "year": 2020,
     "condition": "New",
-    "foto": "electric-white-folded",
-    "price": 116000000
+    "foto": "electric-HL-white-folded",
+    "Price": 116000000
   },
   {
     "brand": "Brompton",
@@ -106,8 +106,8 @@ class App extends React.Component {
     "color": "Black",
     "year": 2020,
     "condition": "New",
-    "foto": "electric-black-folded",
-    "price": 116000000
+    "foto": "electric-HL-black-folded",
+    "Price": 116000000
   },
   {
     "brand": "BMW",
@@ -117,7 +117,7 @@ class App extends React.Component {
     "year": 2020,
     "condition": "New",
     "foto": "bmw-folded",
-    "price": 40000000
+    "Price": 40000000
   },
   {
     "brand": "BMW",
@@ -127,7 +127,7 @@ class App extends React.Component {
     "year": 2020,
     "condition": "New",
     "foto": "bmw-race",
-    "price": 183000000
+    "Price": 183000000
   }
 ]
 
