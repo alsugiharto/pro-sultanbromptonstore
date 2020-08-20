@@ -360,9 +360,23 @@ class App extends React.Component {
             </section>
             {/* ========================= FOTO ENDs ========================= */}
 
+            {/* ========================= VIDEO ========================= */}
+            <section className="section-name bg padding-y-sm">
+                <div className="container">
+                    <header className="section-heading">
+                        <h3 className="section-title text-center">How to fold your Brompton</h3>
+                    </header>{/* sect-heading */}
+                    <div class='embed-container'><iframe src='https://www.youtube.com/embed/7URyQ25Cbjo' frameborder='0' allowfullscreen></iframe></div>
+                </div>
+            </section>
+            {/* ========================= VIDEO  END{/* ========================= */}
+
             {/* ========================= SECTION SPECIAL ========================= */}
             <section className="section-specials bg padding-y border-bottom">
             <div className="container">
+                <header className="section-heading">
+                    <h3 className="section-title text-center">Why Sultan Brompton</h3>
+                </header>{/* sect-heading */}
             <div className="row">
             <div className="col-md-4">
                         <figure className="itemside">
