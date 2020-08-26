@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/pro-sultanbromptonstore/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/pro-sultanbromptonstore/static/js/main.6e6bc539.chunk.js",
-    "main.js.map": "/pro-sultanbromptonstore/static/js/main.6e6bc539.chunk.js.map",
+    "main.js": "/pro-sultanbromptonstore/static/js/main.2460b4c3.chunk.js",
+    "main.js.map": "/pro-sultanbromptonstore/static/js/main.2460b4c3.chunk.js.map",
     "runtime-main.js": "/pro-sultanbromptonstore/static/js/runtime-main.53a39b99.js",
     "runtime-main.js.map": "/pro-sultanbromptonstore/static/js/runtime-main.53a39b99.js.map",
     "static/js/2.26220f9e.chunk.js": "/pro-sultanbromptonstore/static/js/2.26220f9e.chunk.js",
     "static/js/2.26220f9e.chunk.js.map": "/pro-sultanbromptonstore/static/js/2.26220f9e.chunk.js.map",
     "index.html": "/pro-sultanbromptonstore/index.html",
-    "precache-manifest.4b2f03d963b98b314c0e1d66557f44d0.js": "/pro-sultanbromptonstore/precache-manifest.4b2f03d963b98b314c0e1d66557f44d0.js",
+    "precache-manifest.32121d2d670bd0f6c4c1f5facdb0a83a.js": "/pro-sultanbromptonstore/precache-manifest.32121d2d670bd0f6c4c1f5facdb0a83a.js",
     "service-worker.js": "/pro-sultanbromptonstore/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/pro-sultanbromptonstore/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.26220f9e.chunk.js.LICENSE.txt": "/pro-sultanbromptonstore/static/js/2.26220f9e.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.53a39b99.js",
     "static/js/2.26220f9e.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.6e6bc539.chunk.js"
+    "static/js/main.2460b4c3.chunk.js"
   ]
 }
