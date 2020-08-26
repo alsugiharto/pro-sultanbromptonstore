@@ -184,8 +184,6 @@ class App extends React.Component {
                                                             <figcaption className="info-wrap">
                                                                 <a href="/#" className="title">{itemlist['model']} {itemlist['color']}</a>
                                                                 <a href="/#" className="text-success"> * {itemlist['condition']} </a>
-                                                                <br/>
-                                                                <a href="/#" className="text-warning"> Harga termasuk pajak </a>
                                                                 <div className="rating-wrap">
                                                                     <ul className="rating-stars">
                                                                         <li className="stars-active">
@@ -206,6 +204,8 @@ class App extends React.Component {
                                                                     <span className="label-rating text-muted">{itemlist['year']}</span>
                                                                 </div>
                                                                 <div className="price mt-1">{formatter.format(itemlist['price'])}</div>
+                                                                <br/>
+                                                                <a href="/#" className="text-warning"> Including Tax </a>
                                                             </figcaption>
 
                                                     </div>
