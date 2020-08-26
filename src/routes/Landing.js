@@ -204,7 +204,7 @@ class App extends React.Component {
                                                                     <span className="label-rating text-muted">{itemlist['year']}</span>
                                                                 </div>
                                                                 <div className="price mt-1">{formatter.format(itemlist['price'])}</div>
-                                                                <a href="/#" className="text-warning"> Including Tax </a>
+                                                                <a href="/#" className="text-warning"> Tax Included </a>
                                                             </figcaption>
 
                                                     </div>
