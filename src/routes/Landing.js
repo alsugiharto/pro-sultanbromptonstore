@@ -17,7 +17,7 @@ class App extends React.Component {
     "year": 2020,
     "condition": "New",
     "foto": "ori-HR-black-folded",
-    "price": 58000000
+    "price": 52000000
   },
   {
     "brand": "Brompton",
@@ -27,7 +27,7 @@ class App extends React.Component {
     "year": 2020,
     "condition": "New",
     "foto": "ori-HR-red-folded",
-    "price": 54000000
+    "price": 52000000
   },
   {
     "brand": "Brompton",
@@ -37,7 +37,7 @@ class App extends React.Component {
     "year": 2020,
     "condition": "New",
     "foto": "ori-HL-blue-folded",
-    "price": 58000000
+    "price": 53000000
   },
   {
     "brand": "Brompton",
@@ -47,7 +47,7 @@ class App extends React.Component {
     "year": 2020,
     "condition": "New",
     "foto": "ori-HL-green-folded",
-    "price": 58000000
+    "price": 52000000
   },
   {
     "brand": "Brompton",
@@ -57,7 +57,7 @@ class App extends React.Component {
     "year": 2020,
     "condition": "New",
     "foto": "blackedi-HL-blue-folded",
-    "price": 63000000
+    "price": 57000000
   },
   {
     "brand": "Brompton",
@@ -67,7 +67,7 @@ class App extends React.Component {
     "year": 2020,
     "condition": "New",
     "foto": "blackedi-HL-green-folded",
-    "price": 63000000
+    "price": 57000000
   },
   {
     "brand": "Brompton",
@@ -77,7 +77,7 @@ class App extends React.Component {
     "year": 2020,
     "condition": "New",
     "foto": "ori-SL-black-folded",
-    "price": 56000000
+    "price": 51000000
   },
   {
     "brand": "Brompton",
@@ -87,7 +87,7 @@ class App extends React.Component {
     "year": 2020,
     "condition": "New",
     "foto": "ori-HR-black-folded",
-    "price": 54000000
+    "price": 48000000
   },
   {
     "brand": "Brompton",
@@ -97,7 +97,7 @@ class App extends React.Component {
     "year": 2020,
     "condition": "New",
     "foto": "electric-HL-white-folded",
-    "price": 116000000
+    "price": 98000000
   },
   {
     "brand": "Brompton",
@@ -107,7 +107,7 @@ class App extends React.Component {
     "year": 2020,
     "condition": "New",
     "foto": "electric-HL-black-folded",
-    "price": 116000000
+    "price": 98000000
   },
   {
     "brand": "BMW",
@@ -184,6 +184,7 @@ class App extends React.Component {
                                                             <figcaption className="info-wrap">
                                                                 <a href="/#" className="title">{itemlist['model']} {itemlist['color']}</a>
                                                                 <a href="/#" className="text-success"> * {itemlist['condition']} </a>
+                                                                <a href="/#" className="text-warning"> Harga termasuk pajak </a>
                                                                 <div className="rating-wrap">
                                                                     <ul className="rating-stars">
                                                                         <li className="stars-active">
