@@ -184,6 +184,7 @@ class App extends React.Component {
                                                             <figcaption className="info-wrap">
                                                                 <a href="/#" className="title">{itemlist['model']} {itemlist['color']}</a>
                                                                 <a href="/#" className="text-success"> * {itemlist['condition']} </a>
+                                                                <br/>
                                                                 <a href="/#" className="text-warning"> Harga termasuk pajak </a>
                                                                 <div className="rating-wrap">
                                                                     <ul className="rating-stars">
